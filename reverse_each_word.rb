@@ -5,4 +5,4 @@ end
 end
 
 array = ["We love you!"]
-reverse_each_word(string_sentence)
+reverse_each_word(array)
