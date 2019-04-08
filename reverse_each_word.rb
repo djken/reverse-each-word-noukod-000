@@ -4,5 +4,5 @@ def reverse_each_word(string_sentence)
 end
 end
 
-array = ["We love you!"]
+array = ["Hello there, and how are you?"]
 reverse_each_word(array)
