@@ -4,3 +4,4 @@ def reverse_each_word(string_sentence)
 end
 
 array = ["We love you!"]
+reverse_each_word(string_sentence)
